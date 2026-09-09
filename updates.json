@@ -1,9 +1,9 @@
 {
   "edge-of-eternity": {
-    "version": "1.3.6",
+    "version": "1.3.7",
     "url": "https://github.com/AustinSeltzer/edge-of-eternity-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/edge-of-eternity-releases/releases/download/v1.3.6/Edge-Of-Eternity-1.3.6.zip",
-    "sha256": "27aefe013b330b23c17a11c514f006a8af521a177d5fdca9238d48b7e8e3af0c",
+    "zip": "https://github.com/AustinSeltzer/edge-of-eternity-releases/releases/download/v1.3.7/Edge-Of-Eternity-1.3.7.zip",
+    "sha256": "fd6c474389da8501266dda6a42836e8b0298b0fc4242b06dc20b1056c02a213e",
     "notes": ""
   }
 }
