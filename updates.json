@@ -12,5 +12,12 @@
     "zip": "https://github.com/AustinSeltzer/end-of-creation-releases/releases/download/v0.1.4/End-Of-Creation-0.1.4.zip",
     "sha256": "bda50b2e3b2c4457c5a3303b05f31c85e70f1aa60c97aa92c3ca43a58417820d",
     "notes": ""
+  },
+  "vinyl-creator": {
+    "version": "0.1.0",
+    "url": "https://github.com/AustinSeltzer/vinyl-creator-releases/releases/latest",
+    "zip": "https://github.com/AustinSeltzer/vinyl-creator-releases/releases/download/v0.1.0/Vinyl-Creator-0.1.0.zip",
+    "sha256": "e3188a1e4b67c5859d9477127e3781c7812e28851e519a67702d6adf50b85973",
+    "notes": ""
   }
 }
