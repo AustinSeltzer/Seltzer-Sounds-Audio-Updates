@@ -19,5 +19,12 @@
     "zip": "https://github.com/AustinSeltzer/vinyl-creator-releases/releases/download/v0.1.0/Vinyl-Creator-0.1.0.zip",
     "sha256": "e3188a1e4b67c5859d9477127e3781c7812e28851e519a67702d6adf50b85973",
     "notes": ""
+  },
+  "bounce-sorter": {
+    "version": "1.0.0",
+    "url": "https://github.com/AustinSeltzer/bounce-sorter-releases/releases/latest",
+    "zip": "https://github.com/AustinSeltzer/bounce-sorter-releases/releases/download/v1.0.0/Edge-Of-Eternity-1.0.0.zip",
+    "sha256": "d2e93a12319d8380ff57ee5ff530dce1eff5d75fa719fd1a74bc2e8116699a7b",
+    "notes": ""
   }
 }
