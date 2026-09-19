@@ -14,10 +14,10 @@
     "notes": ""
   },
   "vinyl-maker": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://github.com/AustinSeltzer/vinyl-maker-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/vinyl-maker-releases/releases/download/v1.0.0/Seltzer-Sounds-Vinyl-Maker-1.0.0.zip",
-    "sha256": "8b61d753d88257905f45a584318628d942138ce348a84c363f7b78a730e73837",
+    "zip": "https://github.com/AustinSeltzer/vinyl-maker-releases/releases/download/v1.0.1/Seltzer-Sounds-Vinyl-Maker-1.0.1.zip",
+    "sha256": "b67ac40a4389678a25a207881cd0d51835a2d5c15c8efa35cf48a8b1a2e1bc44",
     "notes": ""
   }
 }
