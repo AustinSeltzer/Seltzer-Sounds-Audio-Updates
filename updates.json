@@ -7,10 +7,10 @@
     "notes": ""
   },
   "mastering-suite": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/download/v1.0.1/Seltzer-Sounds-Mastering-Suite-1.0.1.zip",
-    "sha256": "d2879e1792021613ae7a6190d6306d42084c058aace6c9a011de75d871cd4b7e",
+    "zip": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/download/v1.0.2/Seltzer-Sounds-Mastering-Suite-1.0.2.zip",
+    "sha256": "c4d9e74d4da90984a312f138fd10b976f6bbd1e07f35ed5bde58adb64949fa37",
     "notes": ""
   },
   "vinyl-maker": {
