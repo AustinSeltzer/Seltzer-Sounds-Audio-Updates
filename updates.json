@@ -26,5 +26,12 @@
     "zip": "https://github.com/AustinSeltzer/seltzer-sounds-links-releases/releases/download/v1.2.0/Seltzer-Sounds-Links-1.2.0.zip",
     "sha256": "3dbe5655bc2cd78448b4002ea2e13fe6fb4a47f77e3117658871f1c468bcce7e",
     "notes": ""
+  },
+  "measure-of-power": {
+    "version": "1.1.0",
+    "url": "https://github.com/AustinSeltzer/measure-of-power-releases/releases/latest",
+    "zip": "https://github.com/AustinSeltzer/measure-of-power-releases/releases/download/v1.1.0/Measure-Of-Power-1.1.0.zip",
+    "sha256": "42e339ec2c86d3d5983bd08dfb8665f50f3ac9aa144b95b3247770fa8f4b40c9",
+    "notes": ""
   }
 }
