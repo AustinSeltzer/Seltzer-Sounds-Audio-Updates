@@ -33,5 +33,12 @@
     "zip": "https://github.com/AustinSeltzer/measure-of-power-releases/releases/download/v1.1.0/Measure-Of-Power-1.1.0.zip",
     "sha256": "42e339ec2c86d3d5983bd08dfb8665f50f3ac9aa144b95b3247770fa8f4b40c9",
     "notes": ""
+  },
+  "weight-of-presence": {
+    "version": "1.0.0",
+    "url": "https://github.com/AustinSeltzer/weight-of-presence-releases/releases/latest",
+    "zip": "https://github.com/AustinSeltzer/weight-of-presence-releases/releases/download/v1.0.0/Weight-Of-Presence-1.0.0.zip",
+    "sha256": "77ec341647a1c3e1759f08a47a9eb075a15e0c92ebfcce0e8a689f1490552fb3",
+    "notes": ""
   }
 }
