@@ -7,10 +7,10 @@
     "notes": ""
   },
   "mastering-suite": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "url": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/download/v1.5.2/Seltzer-Sounds-Mastering-Suite-1.5.2.zip",
-    "sha256": "242f210a95cc36873e41190e94a76a8e1ed14dfbf17a79b42087dd71ccf7037d",
+    "zip": "https://github.com/AustinSeltzer/mastering-suite-releases/releases/download/v1.5.3/Seltzer-Sounds-Mastering-Suite-1.5.3.zip",
+    "sha256": "ce164335e4886e9011c1f4e20ee8025dd14139a701da5c13483b8e5a318a0ea8",
     "notes": ""
   },
   "seltzer-sounds-links": {
