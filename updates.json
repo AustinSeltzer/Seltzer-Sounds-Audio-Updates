@@ -1,9 +1,9 @@
 {
   "bounce-sorter": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "url": "https://github.com/AustinSeltzer/bounce-sorter-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/bounce-sorter-releases/releases/download/v1.1.1/Seltzer-Sounds-Bounce-Sorter-1.1.1.zip",
-    "sha256": "5834e7444d89e3f9a63bb35290a045cae4acbafdfd32fdc2cb5e0307136e56d6",
+    "zip": "https://github.com/AustinSeltzer/bounce-sorter-releases/releases/download/v1.1.2/Seltzer-Sounds-Bounce-Sorter-1.1.2.zip",
+    "sha256": "0c4d8e878a70cb7f5f78a72f304628496aa8b7a55d1abcf1c632bf8ef0b89473",
     "notes": ""
   },
   "mastering-suite": {
