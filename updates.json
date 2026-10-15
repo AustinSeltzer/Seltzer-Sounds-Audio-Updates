@@ -35,10 +35,10 @@
     "notes": ""
   },
   "seltzer-sounds-server-drive": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "url": "https://github.com/AustinSeltzer/seltzer-sounds-server-drive-releases/releases/latest",
-    "zip": "https://github.com/AustinSeltzer/seltzer-sounds-server-drive-releases/releases/download/v1.0.4/Seltzer-Sounds-Server-1.0.4.zip",
-    "sha256": "35225d5c0c45b40990b8a633cdb6137a96984491868e16443eaefa19e20da01f",
+    "zip": "https://github.com/AustinSeltzer/seltzer-sounds-server-drive-releases/releases/download/v1.0.5/Seltzer-Sounds-Server-1.0.5.zip",
+    "sha256": "d9f03e8661a94d63e196eb8031dfccfd818b2091f35636fd334cd4d3e09ad9ab",
     "notes": ""
   }
 }
